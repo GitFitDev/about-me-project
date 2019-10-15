@@ -31,7 +31,6 @@ export default class Timeline extends Component {
                           <strong>Theraplatform:</strong> ​FrontEnd Engineer
                           Contractor <span>April 2019-September 2019</span>
                         </h2>
-                        <p>
                           <ul>
                             <li>
                               Used JIRA to collaborate on tickets and attend
@@ -49,7 +48,6 @@ export default class Timeline extends Component {
                               Designed HTML and CSS wireframes for landing pages
                             </li>
                           </ul>
-                        </p>
                       </div>
                     </div>
                   </article>
@@ -66,7 +64,6 @@ export default class Timeline extends Component {
                           <strong>MindRight:</strong> Junior Software Engineer
                           <span>October 2017-April 2019</span>
                         </h2>
-                        <p>
                           <ul>
                             <li>
                               Supported software engineering projects in Agile
@@ -87,7 +84,6 @@ export default class Timeline extends Component {
                               MongoDB, Node.JS, and Express
                             </li>
                           </ul>
-                        </p>
                       </div>
                     </div>
                   </article>
@@ -104,7 +100,6 @@ export default class Timeline extends Component {
                           <strong>Starbucks:</strong> Shift Supervisor
                           <span>October 2016-December2017</span>
                         </h2>
-                        <p>
                           <ul>
                             <li>
                               Assessed job applications and made hiring
@@ -121,7 +116,6 @@ export default class Timeline extends Component {
                               assigning to meet coverage and service demands.
                             </li>
                           </ul>
-                        </p>
                       </div>
                     </div>
                   </article>
