@@ -7,14 +7,14 @@ export default class Intro extends Component {
         <section id="colorlib-hero" className="js-fullheight" data-section="home">
           <div className="flexslider js-fullheight">
             <ul className="slides">
-              <li style={{backgroundImage: 'url(images/gymShark.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/IMG_0289.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
-                          <h1>Hi! <br />I'm Courtney Revada-Luz </h1>
+                          <h1 style={{color: 'white '}}>Hi! <br />I'm Courtney Revada-Luz </h1>
                           <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1LywD-jjJSoRmrw1cRDS6krkMdTd5QzN11G90cK20nH0/edit#heading=h.jx2g99olagu3" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
@@ -22,14 +22,14 @@ export default class Intro extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/gymShark.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/IMG_0289.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
                     <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                       <div className="slider-text-inner">
                         <div className="desc">
-                          <h1>I love creating <br/> web applications!</h1>
+                          <h1 style={{color: 'white '}}>I love creating <br/> web applications!</h1>
                           <p><a className="btn btn-primary btn-learn" href="https://github.com/GitFitDev" target="_blank" rel="noopener noreferrer">View Projects <i className="icon-briefcase3" /></a></p>
                         </div>
                       </div>
@@ -37,7 +37,7 @@ export default class Intro extends Component {
                   </div>
                 </div>
               </li>
-              <li style={{backgroundImage: 'url(images/gymShark.jpg)'}}>
+              <li style={{backgroundImage: 'url(images/IMG_0289.jpg)'}}>
                 <div className="overlay" />
                 <div className="container-fluid">
                   <div className="row">
