@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import Pdf from '../documents/crOne.pdf'
 
 export default class Intro extends Component {
   render() {
@@ -15,7 +16,7 @@ export default class Intro extends Component {
                       <div className="slider-text-inner js-fullheight">
                         <div className="desc">
                           <h1 style={{color: 'white '}}>Hi! <br />I'm Courtney Revada-Luz </h1>
-                          <p><a className="btn btn-primary btn-learn" href="https://docs.google.com/document/d/1LywD-jjJSoRmrw1cRDS6krkMdTd5QzN11G90cK20nH0/edit#heading=h.jx2g99olagu3" target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
+                          <p><a className="btn btn-primary btn-learn" href = {Pdf} target="_blank" rel="noopener noreferrer">View CV<i className="icon-download4" /></a></p>
                         </div>
                       </div>
                     </div>
