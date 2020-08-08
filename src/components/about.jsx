@@ -32,7 +32,7 @@ export default class About extends Component {
                         The technology industry allows for me to develop software solutions to
                          modern day problems. From civic problems that focus on a cause to daily 
                         problems in my personal life. Software gives me the ability to bring my
-                        imagination to life every single day. The question I would ask is: why not 
+                        imagination to life every single day. The question I would ask is: Why not 
                         be a part of the technology industry?
                         {" "}
                       </p>
