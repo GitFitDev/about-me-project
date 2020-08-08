@@ -9,8 +9,7 @@ export default class Timeline extends Component {
             <div className="row">
               <div
                 className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
-                data-animate-effect="fadeInLeft"
-              >
+                data-animate-effect="fadeInLeft">
                 <span className="heading-meta">highlights</span>
                 <h2 className="colorlib-heading animate-box">Timeline</h2>
               </div>
@@ -18,10 +17,40 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          <strong>Sacramento County:</strong> FullStack Web Developer Contractor
+                          <span> October 2019-Current</span>
+                        </h2>
+                          <ul>
+                            <li>
+                              Developed 5 Intranet Applications with Angular Client from planning phase to 
+                              product delivery to client. 
+                            </li>
+                            <li>
+                            Harnessed Angular Material Design Package to Create and Deliver Beautiful UI/UX for in House Applications
+                            </li>
+                            <li>
+                            Handled Angular 8 + 9 SPA by using RestfulAPI, Components, Design Packages, & Lifecycle hooks.
+                            </li>
+                            <li>
+                            Maintained and Created APIs in ASP.Net backend for Angular Client Front End
+                            </li>
+                            <li>Created the Angular Client Architecture Outline for Newly Developed Applications</li>
+                          </ul>
+                      </div>
+                    </div>
+                  </article>
                   <article
                     className="timeline-entry animate-box"
-                    data-animate-effect="fadeInLeft"
-                  >
+                    data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
@@ -29,40 +58,38 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           <strong>Theraplatform:</strong> ​FrontEnd Engineer
-                          Contractor <span>April 2019-September 2019</span>
+                          Contractor <span> March 2019-September 2019</span>
                         </h2>
                           <ul>
                             <li>
-                              Used JIRA to collaborate on tickets and attend
-                              daily standups
+                            Collaborated with engineering team for daily standups and biweekly sprint cycles.
                             </li>
                             <li>
-                              Passed Code reviews for submitted tickets on
-                              Github
+                            Maintained and updated all HTML and CSS files for React.js on company site.
                             </li>
                             <li>
                               Developed multiple components with React to assist
-                              in project efficiency
+                              in project efficiency.
                             </li>
-                            <li>
-                              Designed HTML and CSS wireframes for landing pages
-                            </li>
+                            <li>Designed HTML and CSS wireframes for landing pages</li>
+                            <li>Managed .Net Server on the backend</li>
+                            <li>Handled Angular 5 Web Application data by using Typescript in component lifecycle</li>
+                            <li>Implemented Stripe Api in Angular 5 typescript components</li>
                           </ul>
                       </div>
                     </div>
                   </article>
                   <article
                     className="timeline-entry animate-box"
-                    data-animate-effect="fadeInTop"
-                  >
+                    data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          <strong>MindRight:</strong> Junior Software Engineer
-                          <span>October 2017-April 2019</span>
+                          <strong>MindRight:</strong> Junior Software Engineer Intern to Hire
+                          <span> October 2017-March 2019</span>
                         </h2>
                           <ul>
                             <li>
@@ -83,46 +110,14 @@ export default class Timeline extends Component {
                               applications using Angular 2+, JavaScript,
                               MongoDB, Node.JS, and Express
                             </li>
-                          </ul>
-                      </div>
-                    </div>
-                  </article>
-                  <article
-                    className="timeline-entry animate-box"
-                    data-animate-effect="fadeInLeft"
-                  >
-                    <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
-                      </div>
-                      <div className="timeline-label">
-                        <h2>
-                          <strong>Starbucks:</strong> Shift Supervisor
-                          <span>October 2016-December2017</span>
-                        </h2>
-                          <ul>
-                            <li>
-                              Assessed job applications and made hiring
-                              recommendations to bring in top candidates for key
-                              vacancies.
-                            </li>
-                            <li>
-                              Recruited, interviewed, and hired individuals
-                              which would add value to teams while bringing a
-                              wealth of experience.
-                            </li>
-                            <li>
-                              Helped with planning schedules and delegating
-                              assigning to meet coverage and service demands.
-                            </li>
+                            <li>Intern hired on as Junior Software Engineer</li>
                           </ul>
                       </div>
                     </div>
                   </article>
                   <article
                     className="timeline-entry begin animate-box"
-                    data-animate-effect="fadeInBottom"
-                  >
+                    data-animate-effect="fadeInBottom">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-none"></div>
                     </div>

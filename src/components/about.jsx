@@ -10,14 +10,13 @@ export default class About extends Component {
               <div className="col-md-12">
                 <div
                   className="row row-bottom-padded-sm animate-box"
-                  data-animate-effect="fadeInLeft"
-                >
+                  data-animate-effect="fadeInLeft">
                   <div className="col-md-12">
                     <div className="about-desc">
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        My name is Courtney Revada-Luz and I am a self-taught
+                        My name is Courtney Revada and I am a self-taught
                         developer who graduated from Pacific University with a
                         degree in Health and Nutrition. Being in the technology
                         industry has shown me that you can have a lot of freedom
@@ -29,19 +28,13 @@ export default class About extends Component {
                         and begin!
                       </p>
                       <p>
-                        The question I get the most is why the tech field? The
-                        best way I can explain is by comparing to my favorite
-                        past time activity which is weight lifting. In the gym
-                        everyone starts off somewhere. All the way from beginner
-                        and not knowing how to do specific gym exercises to
-                        being able to walk into any gym and having a great
-                        workout while being able to help others. Coding is
-                        exactly the same! You have to start off as a beginner
-                        and work towards being better. The only way to become a
-                        good developer is by practicing every day. You earn the
-                        skill level that you put out. Even if you are stuck and
-                        slow down, just never stop. Just keep pushing forward
-                        because that is how success is made.{" "}
+                        The question I get the most is why do I love the tech field?
+                        The technology industry allows for me to develop software solutions to
+                         modern day problems. From civic problems that focus on a cause to daily 
+                        problems in my personal life. Software gives me the ability to bring my
+                        imagination to life every single day. The question I would ask is: why not 
+                        be a part of the technology industry?
+                        {" "}
                       </p>
                     </div>
                   </div>
@@ -69,12 +62,12 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Web Development</h3>
-                    <p>
-                      <strong>FrontEnd:</strong> Angular2+, JavaScript,
+                    <p className="left">
+                      <strong>FrontEnd:</strong> Angular, JavaScript,
                       React.js, Bootstrap, HTML5, CSS, Material Design,
-                      WordPress, JQuery <br />
+                      WordPress, JQuery, Chart.js <br />
                       <strong>BackEnd:</strong> Node.js, Express.js, MongoDB,
-                      SQL
+                      SQL, C#, ASP.Net
                     </p>
                   </div>
                 </div>
@@ -104,7 +97,7 @@ export default class About extends Component {
                   </span>
                   <div className="desc">
                     <h3>Culture Fit</h3>
-                    <p>
+                    <p className="left">
                       <strong>Soft Skills:</strong> Good Communication,
                       Self-Motivated, Problem Solver, Charismatic, Adaptable,
                       Fast Learner, Optimistic
