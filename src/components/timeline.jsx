@@ -89,7 +89,7 @@ export default class Timeline extends Component {
                       <div className="timeline-label">
                         <h2>
                           <strong>MindRight:</strong> Junior Software Engineer Intern to Hire
-                          <span> October 2017-March 2019</span>
+                          <span> October 2018-March 2019</span>
                         </h2>
                           <ul>
                             <li>
