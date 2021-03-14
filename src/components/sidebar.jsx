@@ -48,7 +48,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li>
                   <a
-                    href="https://twitter.com/GitFitDev"
+                    href="https://twitter.com/courtneyrevada"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -57,7 +57,7 @@ export default class Sidebar extends Component {
                 </li>
                 <li>
                   <a
-                    href="https://www.instagram.com/gitfitdev/"
+                    href="https://www.instagram.com/courtneyrevada.io/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >

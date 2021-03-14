@@ -17,7 +17,46 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                <article
+                  <article
+                    className="timeline-entry animate-box"
+                    data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-6">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>
+                          <strong>Runding Corporation:</strong> FullStack Web
+                          Developer
+                          <span> October 2020-Current</span>
+                        </h2>
+                        <ul>
+                          <li>
+                            Use React, Node.js, .NET, and SQL to build and
+                            maintain features for Disney’s Construction team
+                          </li>
+                          <li>
+                            Assisted in code refactoring to React Hooks from
+                            Redux. Reduced amount of code used by 30%
+                          </li>
+                          <li>
+                            Consolidated .NET SQL queries by using LINQ
+                            statements to reduce 300 lines of .NET code
+                          </li>
+                          <li>
+                            Recommended and co-implemented Node.js as middleware
+                            with team to increase RESTful API payload return
+                            speed by 60%
+                          </li>
+                          <li>
+                            Refactored contract application to implement React
+                            Redux to reduce 100 lines of local state code
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </article>
+                  <article
                     className="timeline-entry animate-box"
                     data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
@@ -26,25 +65,38 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          <strong>Sacramento County:</strong> FullStack Web Developer Contractor
-                          <span> October 2019-Current</span>
+                          <strong>Sacramento County:</strong> Front End Web
+                          Developer
+                          <span> October 2019-October 2020</span>
                         </h2>
-                          <ul>
-                            <li>
-                              Developed 5 Intranet Applications with Angular Client from planning phase to 
-                              product delivery to client. 
-                            </li>
-                            <li>
-                            Harnessed Angular Material Design Package to Create and Deliver Beautiful UI/UX for in House Applications
-                            </li>
-                            <li>
-                            Handled Angular 8 + 9 SPA by using RestfulAPI, Components, Design Packages, & Lifecycle hooks.
-                            </li>
-                            <li>
-                            Maintained and Created APIs in ASP.Net backend for Angular Client Front End
-                            </li>
-                            <li>Created the Angular Client Architecture Outline for Newly Developed Applications</li>
-                          </ul>
+                        <ul>
+                          <li>
+                            Demonstrated use of Angular 7+, .NET Core, SQL,
+                            DOCKER, Azure DevOps CI/CD, KARMA
+                          </li>
+                          <li>
+                            Co-developed new Angular 7+ web applications such as
+                            Available Vehicle Application & Customer Service
+                            Tracking
+                          </li>
+                          <li>
+                            Led and implemented Docker to integrate testing with
+                            Karma and released to Azure DevOps CI/CD
+                          </li>
+                          <li>
+                            Proposed and developed Angular Material Container
+                            with Docker to have reusable bootstrapped projects.
+                          </li>
+                          <li>
+                            Formulated and developed SQL queries to filter
+                            employees by department to increase RESTful API
+                            speed by 30%
+                          </li>
+                          <li>
+                            Presented and translated code during application
+                            demo days to department stakeholders
+                          </li>
+                        </ul>
                       </div>
                     </div>
                   </article>
@@ -57,25 +109,28 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          <strong>Theraplatform:</strong> ​FrontEnd Engineer
-                          Contractor <span> March 2019-September 2019</span>
+                          <strong>Theraplatform:</strong>Junior Full Stack Web
+                          Developer
+                          <span> October 2018-October 2019</span>
                         </h2>
-                          <ul>
-                            <li>
-                            Collaborated with engineering team for daily standups and biweekly sprint cycles.
-                            </li>
-                            <li>
-                            Maintained and updated all HTML and CSS files for React.js on company site.
-                            </li>
-                            <li>
-                              Developed multiple components with React to assist
-                              in project efficiency.
-                            </li>
-                            <li>Designed HTML and CSS wireframes for landing pages</li>
-                            <li>Managed .Net Server on the backend</li>
-                            <li>Handled Angular 5 Web Application data by using Typescript in component lifecycle</li>
-                            <li>Implemented Stripe Api in Angular 5 typescript components</li>
-                          </ul>
+                        <ul>
+                          <li>
+                            Addressed company sells by redesigning company
+                            website to use React.js and increased sells by 50%
+                          </li>
+                          <li>
+                            Implemented features following SOLID design
+                            principles for 100% of development lifecycle
+                          </li>
+                          <li>
+                            Wrote 100% of Node.js CRUD RESTful APIs to manage
+                            company blog posts for speech pathologists
+                          </li>
+                          <li>
+                            Authored 100% of Node.js API tests with Postman to
+                            ensure JSON payload was correct
+                          </li>
+                        </ul>
                       </div>
                     </div>
                   </article>
@@ -88,30 +143,28 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          <strong>MindRight:</strong> Junior Software Engineer Intern to Hire
-                          <span> October 2017-March 2019</span>
+                          <strong>MindRight:</strong> Software Engineer Intern
+                          <span> April 2018-October 2019</span>
                         </h2>
-                          <ul>
-                            <li>
-                              Supported software engineering projects in Agile
-                              work environment
-                            </li>
-                            <li>
-                              Used development tools such as Visual Studio Code,
-                              GitHub, SourceTree, Chrome Dev Tools, and JIRA.
-                            </li>
-                            <li>
-                              Collaborated on all stages of systems development
-                              life-cycle, from requirements gathering to
-                              production releases.
-                            </li>
-                            <li>
-                              Developed landing pages, dashboards, and online
-                              applications using Angular 2+, JavaScript,
-                              MongoDB, Node.JS, and Express
-                            </li>
-                            <li>Intern hired on as Junior Software Engineer</li>
-                          </ul>
+                        <ul>
+                          <li>
+                            Guided, taught, and trained 2 new interns on SCRUM
+                            and AGILE methodologies
+                          </li>
+                          <li>
+                            Co-ordinated peer programming 100% for the
+                            development of Twilio API integration for Node.js
+                            server
+                          </li>
+                          <li>
+                            Reduced Angular HTML inline styling by implementing
+                            SASS refactoring by 90%
+                          </li>
+                          <li>
+                            Gave lecture on using NGRX for state management to 3
+                            developers on the engineering team
+                          </li>
+                        </ul>
                       </div>
                     </div>
                   </article>

@@ -16,25 +16,26 @@ export default class About extends Component {
                       <span className="heading-meta">About Me</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
-                        My name is Courtney Revada and I am a self-taught
-                        developer who graduated from Pacific University with a
-                        degree in Health and Nutrition. Being in the technology
-                        industry has shown me that you can have a lot of freedom
-                        in the workplace as well as outside of it. There are no
-                        limitations on what you can do. Does not matter on what
-                        school, background, or where you are located. You are a
-                        developer and the only thing you need to do is believe
-                        in yourself and get started. Just open up your device
-                        and begin!
+                        My name is Courtney Revada and I am a developer with
+                        humble beginnings from foster care to now full-time web
+                        developer professional. I’m working towards making a
+                        positive mark on the world by building applications that
+                        people need. I believe that anyone can learn to code as
+                        long as they are willing and desire to. My mantra is
+                        "One line of code today == the change I will create
+                        tomorrow." Happy Coding!
                       </p>
                       <p>
-                        The question I get the most is why do I love the tech field?
-                        The technology industry allows for me to develop software solutions to
-                         modern day problems. From civic problems that focus on a cause to daily 
-                        problems in my personal life. Software gives me the ability to bring my
-                        imagination to life every single day. The question I would ask is: Why not 
-                        be a part of the technology industry?
-                        {" "}
+                        The question I get the most is: What motivates you to do
+                        what you do? The answer to that does not only drive me
+                        to succeed in my career but in life as well. Growing up
+                        in the foster care system there was no role model to
+                        define what success looks like for me. As a working
+                        professional, I want to be that role model for all the
+                        foster youth and young children following after me. By
+                        working hard I can represent possibility; the idea that
+                        you can do and be anything regardless of the stigma
+                        surrounding your background.{" "}
                       </p>
                     </div>
                   </div>
@@ -48,8 +49,7 @@ export default class About extends Component {
             <div className="row">
               <div
                 className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box"
-                data-animate-effect="fadeInLeft"
-              >
+                data-animate-effect="fadeInLeft">
                 <span className="heading-meta">What I do?</span>
                 <h2 className="colorlib-heading">Here are some things I do</h2>
               </div>
@@ -63,9 +63,9 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Web Development</h3>
                     <p className="left">
-                      <strong>FrontEnd:</strong> Angular, JavaScript,
-                      React.js, Bootstrap, HTML5, CSS, Material Design,
-                      WordPress, JQuery, Chart.js <br />
+                      <strong>FrontEnd:</strong> Angular, JavaScript, React.js,
+                      Bootstrap, HTML5, CSS, Material Design, WordPress, JQuery,
+                      Chart.js <br />
                       <strong>BackEnd:</strong> Node.js, Express.js, MongoDB,
                       SQL, C#, ASP.Net
                     </p>
