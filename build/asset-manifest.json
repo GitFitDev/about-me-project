@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.d8879f5f.chunk.css",
+    "main.js": "/personal-website/static/js/main.fc613937.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.fc613937.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.43966571.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.43966571.js.map",
+    "static/js/2.708e2675.chunk.js": "/personal-website/static/js/2.708e2675.chunk.js",
+    "static/js/2.708e2675.chunk.js.map": "/personal-website/static/js/2.708e2675.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.b2d980606e5a7c592774b8ad50b2612f.js": "/personal-website/precache-manifest.b2d980606e5a7c592774b8ad50b2612f.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.d8879f5f.chunk.css.map": "/personal-website/static/css/main.d8879f5f.chunk.css.map",
+    "static/media/crevada.pdf": "/personal-website/static/media/crevada.6f723d10.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43966571.js",
+    "static/js/2.708e2675.chunk.js",
+    "static/css/main.d8879f5f.chunk.css",
+    "static/js/main.fc613937.chunk.js"
+  ]
+}
