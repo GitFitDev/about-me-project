@@ -26,7 +26,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>
-                          <strong>Runding Corporation:</strong> FullStack Web
+                          <strong>Runding Corporation: </strong>FullStack Web
                           Developer
                           <span> October 2020-Current</span>
                         </h2>
