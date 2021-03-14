@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/personal-website/build/static/css/main.d8879f5f.chunk.css",
-    "main.js": "/personal-website/build/static/js/main.cec0725f.chunk.js",
-    "main.js.map": "/personal-website/build/static/js/main.cec0725f.chunk.js.map",
-    "runtime-main.js": "/personal-website/build/static/js/runtime-main.ee5021c6.js",
-    "runtime-main.js.map": "/personal-website/build/static/js/runtime-main.ee5021c6.js.map",
-    "static/js/2.092ae3fe.chunk.js": "/personal-website/build/static/js/2.092ae3fe.chunk.js",
-    "static/js/2.092ae3fe.chunk.js.map": "/personal-website/build/static/js/2.092ae3fe.chunk.js.map",
-    "index.html": "/personal-website/build/index.html",
-    "precache-manifest.14c81a9030ef5bb77e2d0c0686e8c123.js": "/personal-website/build/precache-manifest.14c81a9030ef5bb77e2d0c0686e8c123.js",
-    "service-worker.js": "/personal-website/build/service-worker.js",
-    "static/css/main.d8879f5f.chunk.css.map": "/personal-website/build/static/css/main.d8879f5f.chunk.css.map",
-    "static/media/crevada.pdf": "/personal-website/build/static/media/crevada.6f723d10.pdf"
+    "main.css": "/personal-website/static/css/main.d8879f5f.chunk.css",
+    "main.js": "/personal-website/static/js/main.fc613937.chunk.js",
+    "main.js.map": "/personal-website/static/js/main.fc613937.chunk.js.map",
+    "runtime-main.js": "/personal-website/static/js/runtime-main.43966571.js",
+    "runtime-main.js.map": "/personal-website/static/js/runtime-main.43966571.js.map",
+    "static/js/2.708e2675.chunk.js": "/personal-website/static/js/2.708e2675.chunk.js",
+    "static/js/2.708e2675.chunk.js.map": "/personal-website/static/js/2.708e2675.chunk.js.map",
+    "index.html": "/personal-website/index.html",
+    "precache-manifest.b2d980606e5a7c592774b8ad50b2612f.js": "/personal-website/precache-manifest.b2d980606e5a7c592774b8ad50b2612f.js",
+    "service-worker.js": "/personal-website/service-worker.js",
+    "static/css/main.d8879f5f.chunk.css.map": "/personal-website/static/css/main.d8879f5f.chunk.css.map",
+    "static/media/crevada.pdf": "/personal-website/static/media/crevada.6f723d10.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee5021c6.js",
-    "static/js/2.092ae3fe.chunk.js",
+    "static/js/runtime-main.43966571.js",
+    "static/js/2.708e2675.chunk.js",
     "static/css/main.d8879f5f.chunk.css",
-    "static/js/main.cec0725f.chunk.js"
+    "static/js/main.fc613937.chunk.js"
   ]
 }
